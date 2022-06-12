@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94722618576']
-global.premium = ['94722618576']
-global.ownernomer = '94722618576'
-global.ownername = '🐦BAD BOY'
-global.botname = 'BAD BOY'
-global.footer = '©BAD BOY.'
+global.owner = ['94715346004']
+global.premium = ['94715346004']
+global.ownernomer = '94715346004'
+global.ownername = '🐦REAL NETHU'
+global.botname = 'REAL NETHU'
+global.footer = '©REAL NETHU.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://www.youtube.com/channel/UC2clDq7k5y20sm5OzHEeW7g'
-global.packname = 'BAD BOY'
-global.author = '🐦BAD BOY'
+global.packname = 'REAL NETHU'
+global.author = '🐦REAL NETHU'
 global.sessionName = 'session'
 global.prefa = ['','!','.','💖','😘','❤']
 global.sp = '⭔'
